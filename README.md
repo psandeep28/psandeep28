@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on CNN ASL Translator, the ins and outs of Product Operations and Data Analytics at Teradata
 - 🌱 I’m currently learning how to create new metrics to measure brain-network similarity
 - 👯 I’m looking to collaborate on ways to grow as a data/business analyst
-- - 📫 How to reach me: Email - psandeep@ucsd.edu or Phone - 4692868737
+- 📫 How to reach me: Email - psandeep@ucsd.edu or Phone - 4692868737
 <!--
 **psandeep28/psandeep28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
