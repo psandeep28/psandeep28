@@ -5,7 +5,6 @@
 - 💬 Ask me about data pipelines, BI design, Power BI/Tableau, or anything at the intersection of AI and analytics
 - 👯 I'm looking to collaborate on data engineering, sports analytics, or AI/ML projects
 - 📫 How to reach me: parthsandeep28@gmail.com | [LinkedIn](https://linkedin.com/in/parth-sandeep)
-- ⚡ Fun fact: I built a tool that lets C-suite executives query telecom market data in plain English
 <!--
 **psandeep28/psandeep28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
