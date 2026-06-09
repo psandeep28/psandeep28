@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on D3 Visuals, soon to be @ AT&T
-- 🌱 I’m currently learning how to create new metrics to measure brain-network similarity
-- 👯 I’m looking to collaborate on ways to grow as a data/business analyst
-- 📫 How to reach me: Email - psandeep@ucsd.edu or Phone - 4692868737
+- 🔭 I'm currently working on data engineering and analytics at AT&T — building ELT pipelines, executive dashboards, and an LLM-powered natural language query tool
+- 🌱 I'm currently pursuing my MS in Data Science at UT Austin and working on projects in bird migration analytics (FlightPath) and esports ML
+- 💬 Ask me about data pipelines, BI design, Power BI/Tableau, or anything at the intersection of AI and analytics
+- 👯 I'm looking to collaborate on data engineering, sports analytics, or AI/ML projects
+- 📫 How to reach me: parthsandeep28@gmail.com | [LinkedIn](https://linkedin.com/in/parth-sandeep)
+- ⚡ Fun fact: I built a tool that lets C-suite executives query telecom market data in plain English
 <!--
 **psandeep28/psandeep28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
